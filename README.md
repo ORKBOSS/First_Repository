@@ -1,2 +1,2 @@
 # First_Repository
- Intro to GitHub Class 04-28-21
+Created for "Intro to Git and GitHub for fredhutch.io Class 04-28-21"
